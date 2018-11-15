@@ -1,3 +1,6 @@
 [submodule "1-js-drum-kit"]
 	path = 1-js-drum-kit
 	url = https://github.com/mapu77/1-js-drum-kit
+[submodule "2-css-js-clock"]
+	path = 2-css-js-clock
+	url = https://github.com/mapu77/2-css-js-clock

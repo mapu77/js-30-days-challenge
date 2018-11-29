@@ -4,3 +4,6 @@
 [submodule "2-css-js-clock"]
 	path = 2-css-js-clock
 	url = https://github.com/mapu77/2-css-js-clock
+[submodule "3-css-variables"]
+	path = 3-css-variables
+	url = https://github.com/mapu77/3-css-variables
